@@ -1,0 +1,14 @@
+let num1: number = 10;
+let num2: number = 5;
+let num3: number;
+let num4: string = "10";
+let num5: boolean = true;
+num3 = num1 + num2;
+console.log("Cộng:", num3);
+num3 = num1 - num2;
+console.log("Trừ:", num3);
+num3 = num1 * num2;
+console.log("Nhân:", num3);
+num3 = num1 / num2;
+console.log("Chia:", num3);
+console.log("num4 + num5:", num4 + num5);
